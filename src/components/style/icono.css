@@ -1,0 +1,23 @@
+.icono{
+	
+	width:104px;
+}
+
+
+.TituloCiudad{
+   font-family: 'Luckiest Guy', cursive;
+
+}
+
+.DatosTemp{
+	font-family: 'Baloo Bhai', cursive;
+	
+}
+
+.Titulo{
+	text-align: center;
+}
+
+.texto{
+	color:#3c3a2a;
+}
