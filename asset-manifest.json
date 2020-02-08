@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/negromartin/Blackpeople-Clima.git/static/css/main.a23b3a59.chunk.css",
+    "main.js": "/negromartin/Blackpeople-Clima.git/static/js/main.9b83ea8e.chunk.js",
+    "main.js.map": "/negromartin/Blackpeople-Clima.git/static/js/main.9b83ea8e.chunk.js.map",
+    "runtime-main.js": "/negromartin/Blackpeople-Clima.git/static/js/runtime-main.6036e008.js",
+    "runtime-main.js.map": "/negromartin/Blackpeople-Clima.git/static/js/runtime-main.6036e008.js.map",
+    "static/js/2.1b059ef0.chunk.js": "/negromartin/Blackpeople-Clima.git/static/js/2.1b059ef0.chunk.js",
+    "static/js/2.1b059ef0.chunk.js.map": "/negromartin/Blackpeople-Clima.git/static/js/2.1b059ef0.chunk.js.map",
+    "index.html": "/negromartin/Blackpeople-Clima.git/index.html",
+    "precache-manifest.4b2ea6b28b5adaba94f032ce4f3aec09.js": "/negromartin/Blackpeople-Clima.git/precache-manifest.4b2ea6b28b5adaba94f032ce4f3aec09.js",
+    "service-worker.js": "/negromartin/Blackpeople-Clima.git/service-worker.js",
+    "static/css/main.a23b3a59.chunk.css.map": "/negromartin/Blackpeople-Clima.git/static/css/main.a23b3a59.chunk.css.map",
+    "static/js/2.1b059ef0.chunk.js.LICENSE": "/negromartin/Blackpeople-Clima.git/static/js/2.1b059ef0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6036e008.js",
+    "static/js/2.1b059ef0.chunk.js",
+    "static/css/main.a23b3a59.chunk.css",
+    "static/js/main.9b83ea8e.chunk.js"
+  ]
+}
